@@ -1,3 +1,8 @@
+## entity relationship diagram :
+
+![image-20210115181959249](https://github.com/YuboC/Online_BookStore/blob/master/Design/Database/ER.png)
+  
+
 ## **Data Entities**
 
 Carol Smith, a business analyst at Evergreen, has discussed with company’s CTO Tim Beck about the details of information required for the new website. As a result, she has gathered the following information:
@@ -196,10 +201,4 @@ An admin can create another admin user by providing the following information fo
 The system automatically assigns a unique ID for every new user.
 
 
-
-## entity relationship diagram :
-
-
-
-![image-20210115181959249](C:\Users\lalag\AppData\Roaming\Typora\typora-user-images\image-20210115181959249.png)
 
