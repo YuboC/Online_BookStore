@@ -9,4 +9,5 @@
   <img src="https://github.com/YuboC/Online_BookStore/blob/master/Design/Database/ER.png" height=400>  
   
 - Website classes  
+  <img src="https://github.com/YuboC/Online_BookStore/blob/master/Design/TechDesign/img/Domain%2BModel%2BClass%2BDiagram.png" height=500>
   <img src="https://github.com/YuboC/Online_BookStore/blob/master/Design/TechDesign/img/Picture4.png" height=600>
