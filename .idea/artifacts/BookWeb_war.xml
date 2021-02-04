@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="BookWeb-1.0-SNAPSHOT.war">
+    <root id="archive" name="BookStoreWebsite-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="BookWeb:war exploded" />
     </root>
   </artifact>
